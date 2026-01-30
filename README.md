@@ -38,20 +38,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jay01D&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165em" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jay01D&theme=github-dark&hide_border=true&count_private=true" height="165em" />
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jay01D&theme=github-compact&hide_border=true&radius=8" />
-</p>
-
 ---
 
 ### 🧩 Current Focus
