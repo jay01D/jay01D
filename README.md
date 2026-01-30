@@ -38,7 +38,6 @@
 </p>
 
 ---
----
 
 ### 🧩 Current Focus
 - ⚙️ Architecting and scaling backend systems  
